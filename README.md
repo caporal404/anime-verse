@@ -1,2 +1,2 @@
-# anime-verse
-Ce site vous permet de rester informé des nouveautés dans le monde des Animés
+# Anime Verse
+Un sitevweb pour rester informé des actualités et des dernières sorties dans le monde des Animés 
